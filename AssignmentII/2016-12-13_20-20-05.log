@@ -1,0 +1,18 @@
+Dec 13, 2016 8:20:05 PM Log write
+INFO: Created Log
+Dec 13, 2016 8:20:07 PM Log write
+INFO: Created Server GUI
+Dec 13, 2016 8:20:07 PM Log write
+INFO: Received message: Test message please ignore
+Dec 13, 2016 8:20:07 PM Log write
+INFO: Error parsing message from client: [Test message please ignore]
+Dec 13, 2016 8:20:14 PM Log write
+INFO: Received message: checkIfUserExists@asdawda@asdawsdaw
+Dec 13, 2016 8:20:14 PM Log write
+INFO: Received message: createUser@asdawda@asdawsdaw@asdawdasa
+Dec 13, 2016 8:20:14 PM Log write
+INFO: Created new user: asdawda asdawsdaw asdawdasa
+Dec 13, 2016 8:20:14 PM Log write
+INFO: Received message: getCurrentItems
+Dec 13, 2016 8:20:22 PM Log write
+INFO: Read log file to Server GUI

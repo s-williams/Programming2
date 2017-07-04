@@ -1,0 +1,22 @@
+May 13, 2016 12:23:17 AM Log write
+INFO: Created Log
+May 13, 2016 12:23:17 AM Log write
+INFO: Created Server GUI
+May 13, 2016 12:23:17 AM Log write
+INFO: Received message: Test message please ignore
+May 13, 2016 12:23:17 AM Log write
+INFO: Error parsing message from client: [Test message please ignore]
+May 13, 2016 12:23:29 AM Log write
+INFO: Received message: checkIfUserExists@Test@Buddy
+May 13, 2016 12:23:37 AM Log write
+INFO: Received message: checkIfUserExists@Test@Buddy
+May 13, 2016 12:23:39 AM Log write
+INFO: Received message: checkIfUserExists@Test@Buddy
+May 13, 2016 12:23:44 AM Log write
+INFO: Received message: checkIfUserExists@Test@Buddy
+May 13, 2016 12:23:46 AM Log write
+INFO: Received message: checkIfUserExists@Test@Buddy
+May 13, 2016 12:23:46 AM Log write
+INFO: Received message: verifyPassword@Test@Buddy@Test
+May 13, 2016 12:23:46 AM Log write
+INFO: Received message: getUser@Test@Buddy@Test

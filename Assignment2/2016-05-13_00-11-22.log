@@ -1,0 +1,14 @@
+May 13, 2016 12:11:22 AM Log write
+INFO: Created Log
+May 13, 2016 12:11:23 AM Log write
+INFO: Created Server GUI
+May 13, 2016 12:11:23 AM Log write
+INFO: Received message: Test message please ignore
+May 13, 2016 12:11:23 AM Log write
+INFO: Error parsing message from client: [Test message please ignore]
+May 13, 2016 12:11:26 AM Log write
+INFO: Received message: checkIfUserExists@asdawd@asdasd
+May 13, 2016 12:11:26 AM Log write
+INFO: Received message: createUser@asdawd@asdasd@adawds
+May 13, 2016 12:11:26 AM Log write
+INFO: Created new user: asdawd asdasd adawds

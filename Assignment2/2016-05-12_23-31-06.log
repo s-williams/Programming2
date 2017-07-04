@@ -1,0 +1,6 @@
+May 12, 2016 11:31:06 PM Log write
+INFO: Created Log
+May 12, 2016 11:31:06 PM Log write
+INFO: Received message: Test message please ignore
+May 12, 2016 11:31:06 PM Log write
+INFO: Error parsing message from client: [Test message please ignore]

@@ -1,0 +1,12 @@
+May 12, 2016 9:47:55 PM Log write
+INFO: Created Log
+May 12, 2016 9:47:56 PM Log write
+INFO: Received message: Test message please ignore
+May 12, 2016 9:47:56 PM Log write
+INFO: Error parsing message from client: [Test message please ignore]
+May 12, 2016 9:48:02 PM Log write
+INFO: Received message: checkIfUserExists@jsndiasn@askdnasu
+May 12, 2016 9:48:02 PM Log write
+INFO: Received message: createUser@jsndiasn@askdnasu@asdnais
+May 12, 2016 9:48:02 PM Log write
+INFO: Created new user: jsndiasn askdnasu asdnais
